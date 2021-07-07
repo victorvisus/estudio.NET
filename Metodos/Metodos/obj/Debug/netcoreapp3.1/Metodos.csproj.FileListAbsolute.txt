@@ -1,0 +1,12 @@
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.exe
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.deps.json
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.json
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.runtimeconfig.dev.json
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.dll
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\bin\Debug\netcoreapp3.1\Metodos.pdb
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfoInputs.cache
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.AssemblyInfo.cs
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.csproj.CoreCompileInputs.cache
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.dll
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.pdb
+H:\CFGSDAM-Proyectos\ZZ_NET\Metodos\Metodos\obj\Debug\netcoreapp3.1\Metodos.genruntimeconfig.cache
