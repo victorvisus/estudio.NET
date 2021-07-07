@@ -1,0 +1,13 @@
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\bin\Debug\netcoreapp3.1\InicioVS.exe
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\bin\Debug\netcoreapp3.1\InicioVS.deps.json
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\bin\Debug\netcoreapp3.1\InicioVS.runtimeconfig.json
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\bin\Debug\netcoreapp3.1\InicioVS.runtimeconfig.dev.json
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\bin\Debug\netcoreapp3.1\InicioVS.dll
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\bin\Debug\netcoreapp3.1\InicioVS.pdb
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\obj\Debug\netcoreapp3.1\InicioVS.csproj.AssemblyReference.cache
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\obj\Debug\netcoreapp3.1\InicioVS.AssemblyInfoInputs.cache
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\obj\Debug\netcoreapp3.1\InicioVS.AssemblyInfo.cs
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\obj\Debug\netcoreapp3.1\InicioVS.csproj.CoreCompileInputs.cache
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\obj\Debug\netcoreapp3.1\InicioVS.dll
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\obj\Debug\netcoreapp3.1\InicioVS.pdb
+H:\CFGSDAM-Proyectos\ZZ_NET\InicioVS\InicioVS\obj\Debug\netcoreapp3.1\InicioVS.genruntimeconfig.cache

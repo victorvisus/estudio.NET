@@ -1,0 +1,13 @@
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\obj\Debug\netcoreapp3.1\PROG02_Tarea.csproj.AssemblyReference.cache
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\obj\Debug\netcoreapp3.1\PROG02_Tarea.AssemblyInfoInputs.cache
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\obj\Debug\netcoreapp3.1\PROG02_Tarea.AssemblyInfo.cs
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\obj\Debug\netcoreapp3.1\PROG02_Tarea.csproj.CoreCompileInputs.cache
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\bin\Debug\netcoreapp3.1\PROG02_Tarea.exe
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\bin\Debug\netcoreapp3.1\PROG02_Tarea.deps.json
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\bin\Debug\netcoreapp3.1\PROG02_Tarea.runtimeconfig.json
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\bin\Debug\netcoreapp3.1\PROG02_Tarea.runtimeconfig.dev.json
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\bin\Debug\netcoreapp3.1\PROG02_Tarea.dll
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\bin\Debug\netcoreapp3.1\PROG02_Tarea.pdb
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\obj\Debug\netcoreapp3.1\PROG02_Tarea.dll
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\obj\Debug\netcoreapp3.1\PROG02_Tarea.pdb
+H:\CFGSDAM-Proyectos\ZZ_NET\PROG02_Tarea\PROG02_Tarea\obj\Debug\netcoreapp3.1\PROG02_Tarea.genruntimeconfig.cache
